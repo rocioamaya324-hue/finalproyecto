@@ -1,5 +1,5 @@
 .hero {
-  background: url("imagenes/mujer-recibiendo-tratamiento-en-peluqueria.jpg") no-repeat center center/cover;
+  background: url("mujer-recibiendo-tratamiento-en-peluqueria.jpg") no-repeat center center/cover;
   color: #fff;
   text-align: center;
   height: 100vh;            /* toda la altura de la ventana */
@@ -615,3 +615,4 @@ header p {
 .testimonial-form button:hover {
     background: #c2185b;
 }
+
